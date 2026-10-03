@@ -1,0 +1,4 @@
+// Windows resource file for DriverSight icon
+// To use: rc icon.rc && link icon.res with DriverSight.exe
+
+IDI_ICON1 ICON "icon.ico"
